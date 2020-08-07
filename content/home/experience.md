@@ -57,6 +57,7 @@ date_format = "Jan 2006"
   
   * Design the recognition algorithm
   * Optimize PID algorithm used to control the arm
+  """
   
 
 +++
