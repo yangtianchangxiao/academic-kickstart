@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   
   * Redesign the structure
   * Exploit algorithm
-
+"""
 
 [[experience]]
   title = " China International College Students' "Internet+" Innovation and Entrepreneurship Competition"
@@ -59,7 +59,7 @@ date_format = "Jan 2006"
   
   * Design prediction algorithm using neural network including ART and radial basis neural network
   * Design a blockchain to record situation of equipment
-
+"""
 
 [[experience]]
   title = "National College Mechanical Innovation Competition"
@@ -73,7 +73,7 @@ date_format = "Jan 2006"
   
   * Design the recognition algorithm
   * Optimize PID algorithm used to control the arm
-  """
+"""
   
 
 +++
