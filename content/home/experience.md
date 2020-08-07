@@ -32,16 +32,4 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
 """
-  
-[[experience]]
-  title = "Research assistant"
-  company = "Reliability Laboratory"
-  company_url = ""
-  location = ""
-  date_start = "2017-01-01"
-  date_end = ""
-"""
-
-
-
 +++
