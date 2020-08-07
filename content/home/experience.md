@@ -35,7 +35,6 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
-  title = " China International College Students' "Internet+" Innovation and Entrepreneurship Competition"
   company = "R&t team leader"
   company_url = ""
   location = ""
