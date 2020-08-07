@@ -38,8 +38,8 @@ date_format = "Jan 2006"
   company = "R&t team leader"
   company_url = ""
   location = ""
-  date_start = "2020-2-21"
-  date_end = "2020-8-01"
+  date_start = "2020-02-21"
+  date_end = "2020-08-01"
   description = """
   Responsibilities include:
   
