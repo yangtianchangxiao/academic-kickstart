@@ -35,10 +35,15 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
-  company = "University X"
+  title = " China International College Students' "Internet+" Innovation and Entrepreneurship Competition"
+  company = "R&t team leader"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2020-2-21"
+  date_end = "2020-8-01"
+  description = """Design a type of water purifier system and forecast its lifetime"""
+  Responsibilities include:
+  
+  * Design prediction algorithm using neural network including ART and radial basis neural network
+  * Design a blockchain to record situation of equipment
 +++
