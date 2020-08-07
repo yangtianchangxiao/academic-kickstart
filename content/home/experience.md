@@ -47,33 +47,6 @@ date_format = "Jan 2006"
   * Exploit algorithm
 
 
-[[experience]]
-  title = " China International College Students' "Internet+" Innovation and Entrepreneurship Competition"
-  company = "R&t team leader"
-  company_url = ""
-  location = ""
-  date_start = "2020-2-21"
-  date_end = "2020-8-01"
-  description = """Design a type of water purifier system and forecast its lifetime"""
-  Responsibilities include:
-  
-  * Design prediction algorithm using neural network including ART and radial basis neural network
-  * Design a blockchain to record situation of equipment
-"""
 
-[[experience]]
-  title = "National College Mechanical Innovation Competition"
-  company = "Participate in"
-  company_url = ""
-  location = ""
-  date_start = "2019-12-01"
-  date_end = "2020-9-19"
-  description = """Design a sitting posture corrector with a face detection algorithm based on raspberry pi. Using camera to recognize the real position of head and operate the machine arm to correct user's sitting posture"""
-  Responsibilities include:
-  
-  * Design the recognition algorithm
-  * Optimize PID algorithm used to control the arm
-"""
-  
 
 +++
