@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   date_start = "2020-2-21"
   date_end = "2020-8-01"
   description = """Design a type of water purifier system and forecast its lifetime."""
-  Responsibilities include:
+  Responsibilities = 
   
   * Analysing
   * Modelling
