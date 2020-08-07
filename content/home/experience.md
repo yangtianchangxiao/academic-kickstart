@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "China International College Students' "Internet+" Innovation and Entrepreneurship Competition"
+  title = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
   company = "University X"
   company_url = ""
   location = "California"
