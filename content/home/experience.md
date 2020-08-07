@@ -33,10 +33,10 @@ date_format = "Jan 2006"
   * Deploying
 """
 [[experience]]
-  title = "CEd"
-  company = "GenCoin"
+  title = " China International College Students' "Internet+" Innovation and Entrepreneurship Competition"
+  company = ""
   company_url = ""
-  location = "California"
+  location = ""
   date_start = "2017-01-01"
   date_end = ""
   description = """
