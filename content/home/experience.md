@@ -34,11 +34,11 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
-  company = "R&t team leader"
+  title = "CEd"
+  company = "GenCoin"
   company_url = ""
-  location = ""
-  date_start = "2020-02-21"
+  location = "California"
+  date_start = "2017-01-01"
   date_end = ""
   description = """
   Responsibilities include:
