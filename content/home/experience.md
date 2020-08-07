@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company = "Reliability Laboratory"
   company_url = ""
   location = ""
-  date_start = "2018-10-01"
+  date_start = "2017-01-01"
   date_end = ""
 """
 
