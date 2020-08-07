@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   date_end = "2020-8-01"
   description = """Design a type of water purifier system and forecast its lifetime."""
   Responsibilities include:
-  、
+  
   * Design prediction algorithm using neural network including ART and radial basis neural network
   * Design a blockchain to record situation of equipment
 +++
