@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   
   * Redesign the structure
   * Exploit algorithm
-"""
+
 
 [[experience]]
   title = " China International College Students' "Internet+" Innovation and Entrepreneurship Competition"
