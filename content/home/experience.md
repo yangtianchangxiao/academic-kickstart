@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2018-10-01"
   date_end = "2019-10-01"
-  description = """design a type of triaxial stabilization of the cradle head. Redesign the structure to minimize its size and using fuzzy PID optimized by a composition of PSO and GA
+  description = """design a type of triaxial stabilization of the cradle head. Redesign the structure to minimize its size and using fuzzy PID optimized by a composition of PSO and GA"""
   Responsibilities include:
   
   * Redesign the structure
