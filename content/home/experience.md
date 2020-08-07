@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   location = ""
   date_start = "2020-2-21"
   date_end = "2020-8-01"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-  
+  description = """Design a type of water purifier system and forecast its lifetime."""
+  Responsibilities include:
   * Design prediction algorithm using neural network including ART and radial basis neural network
   * Design a blockchain to record situation of equipment
 +++
