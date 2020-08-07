@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2018-10-01"
-  date_end = "2019-10-01"
+  date_end = ""
   Responsibilities include:
   
   * Redesign the structure
