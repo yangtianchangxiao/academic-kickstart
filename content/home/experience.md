@@ -50,5 +50,5 @@ date_format = "Jan 2006"
   date_start = "2016-01-01"
   date_end = "2016-12-31"
   description = """Design a sitting posture corrector with a face detection algorithm based on raspberry pi. Using camera to recognize the real position of head and operate the machine arm to correct user's sitting posture."""
-  """
+
 +++
