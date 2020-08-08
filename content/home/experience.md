@@ -32,7 +32,19 @@ date_format = "Jan 2006"
   * Modelling
   * Deploying
   """
-
+[[experience]]
+  title = " R&t team leader"
+  company = "China International College Students' "Internet+" Innovation and Entrepreneurship Competition"
+  company_url = "Design a type of water purifier system and forecast its lifetime"
+  location = ""
+  date_start = "2020-2-21"
+  date_end = "2020-8-01"
+  description = """
+  Responsibilities include:
+  
+  * Design prediction algorithm using neural network including ART and radial basis neural network
+  * Design a blockchain to record situation of equipment
+"""
 [[experience]]
   title = "Professor"
   company = "University X"
