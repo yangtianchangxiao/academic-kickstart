@@ -17,21 +17,20 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-
-[[experience]]
-  title = "R&t team leader"
-  company = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
+  
+  [[experience]]
+  title = "Research assistant in Reliablity lab"
+  company = "Design a type of triaxial stabilization of the cradle head optimized in structure to minimize its size"
   company_url = ""
   location = ""
-  date_start = "2020-01-01"
-  date_end = ""
+  date_start = "2018-10-01"
+  date_end = "2019-09-13"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  *Design the structure based on coarse fine separation
+  *Design the adaptive algorithm (fuzzy PID optimized with a conposition of optimized PSO and GA)"""
+
 [[experience]]
   title = "R&t team leader"
   company = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
@@ -60,14 +59,5 @@ date_format = "Jan 2006"
   * Design the recognition algorithm
   * Optimize PID algorithm used to control the arm
 """
-  
-  [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Design a sitting posture corrector with a face detection algorithm based on raspberry pi. Using camera to recognize the real position of head and operate the machine arm to correct user's sitting posture."""
 
 +++
