@@ -46,14 +46,20 @@ date_format = "Jan 2006"
   * Design prediction algorithm using neural network including ART and radial basis neural network
   * Design a blockchain to record situation of equipment
 """
+  
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Participate in National College Mechanical Innovation Competition"
+  company = "Design a sitting posture corrector with a face detection algorithm based on raspberry pi. Using camera to recognize the real position of head and operate the machine arm to correct user's sitting posture"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = ""
+  date_start = "2019-12-01"
+  date_end = "2020-9-19"
+  description = """
+  Responsibilities include:
+  
+  * Design the recognition algorithm
+  * Optimize PID algorithm used to control the arm
+"""
   
   [[experience]]
   title = "Professor"
