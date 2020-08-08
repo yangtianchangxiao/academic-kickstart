@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "CEd"
-  company = "GenCoin"
+  title = "R&t team leader"
+  company = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = ""
+  date_start = "2020-01-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -37,10 +37,11 @@ date_format = "Jan 2006"
   company = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
   company_url = ""
   location = ""
-  date_start = "2020-2-21"
-  date_end = "2020-8-01"
+  date_start = "2020-02-21"
+  date_end = "2020-08-01"
   description = """
   Responsibilities include:
+  
   * Design a type of water purifier system and forecast its lifetime
   * Design prediction algorithm using neural network including ART and radial basis neural network
   * Design a blockchain to record situation of equipment
