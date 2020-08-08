@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = ""
   date_start = "2019-12-01"
-  date_end = "2020-9-19"
+  date_end = "2020-09-19"
   description = """
   Responsibilities include:
   
