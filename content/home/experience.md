@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   * Deploying
   """
 [[experience]]
-  title = " R&t team leader"
-  company = "China International College Students' "Internet+" Innovation and Entrepreneurship Competition"
+  title = "R&t team leader"
+  company = "China International College Students Internet+ Innovation and Entrepreneurship Competition"
   company_url = "Design a type of water purifier system and forecast its lifetime"
   location = ""
   date_start = "2020-2-21"
